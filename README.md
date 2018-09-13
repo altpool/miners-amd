@@ -1,0 +1,1 @@
+Miners for AMD cards
