@@ -8,3 +8,8 @@
 ## Equihash ##
 
 [Claymore's ZCash AMD GPU Miner v12.6](https://github.com/altpool/miners-amd/releases/tag/claymorezcash)
+
+
+## Ubqhash ##
+
+[Ubqminer Mainnet v0.17.0 alpha1](https://github.com/altpool/miners-amd/releases/tag/ubqminer)
